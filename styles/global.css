@@ -1,0 +1,15 @@
+/* Sections */
+.container {
+  margin: 3rem auto;
+  max-width: 75rem;
+  padding: 3rem 1.5rem;
+  position: relative;
+  background-color:#4b4715;
+}
+
+/* Section Header Content */
+.header-container {
+  background-color:rgb(75, 71, 21);
+  text-align: center;
+  padding: 2rem 1rem;
+}
